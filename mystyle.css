@@ -1,0 +1,22 @@
+
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    color: yellow;
+}
+
+#MSobuh{
+    color: red;
+    background-color: blue;
+    border: 3px dashed yellow;
+    width: 300px;
+    height: 300px;
+}
+
+.MS{
+    color: green;
+}
+
